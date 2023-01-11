@@ -20,4 +20,4 @@ As a dedicated web developer with a passion for creating visually stunning and h
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bipasha0431&icon=5&color=12)](https://visitcount.itsvg.in)
+
