@@ -1,6 +1,6 @@
 
 # Hi,I'm Bipasha Adhikari👋
-As a dedicated web developer with a passion for creating visually stunning and highly functional websites,I am committed to constantly improving my skills and staying at the forefront of the industry. With a deep understanding in C++, HTML, CSS, and JavaScript, as well as a good track record in utilizing frameworks such as React.js, MongoDB, and Node.js, I am confident in my ability to bring any project to life.I am always eager to learn new tech and stay current with industry advancements and excited to take on new challenges in future.
+A skilled, responsible and optimistic final year student with substantial web development skills and great problem solving ability. I am committed to consistently upgrading my skills and remaining at the forefront of the field. With a strong command over C++ programming language, I possess the expertise to design and develop resilient systems that drive innovation and produce extraordinary results I am confident that I would be a valuable asset to any team, and looking forward to an opportunity to contribute my talent to the success of an organization.
 
 
 ## 🌐 Socials:
